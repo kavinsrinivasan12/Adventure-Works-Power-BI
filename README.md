@@ -1,5 +1,5 @@
 # Adventure-Works-Power-BI
-Step 1: Created dynamic dashboards to track KPIs (sales, revenue, profit, returns), sales performance, customer behaviour and product trends
+Step 1: Created dynamic dashboards to track KPIs (sales, revenue, profit, returns), sales performance, customer behaviour and product trends.
 Step 2: Used DAX for complex calculations and data transformations.
 Step 3: Created drill-through reports for deeper analysis and better user interaction.
 Step 4: Focused on designing user-friendly dashboards with impactful data storytelling.
